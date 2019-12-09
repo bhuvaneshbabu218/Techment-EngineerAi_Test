@@ -1,0 +1,10 @@
+/* 
+  localizableString.strings
+  EngineerAiTest
+
+  Created by Techment bhuvan on 09/12/19.
+  Copyright © 2019 Techment bhuvan. All rights reserved.
+*/
+"GENRIC_ERROR" = "Something went wrong, please try later" ;
+"ALERT_TITLE" = "Error" ;
+"DEFAULT_TITLE" = "No. of Posts = " ;
